@@ -1,2 +1,2 @@
 # AcadFit
- Site estilo academia.
+HTML and Css website, for practicing
